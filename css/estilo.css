@@ -1,0 +1,15 @@
+body{
+    margin: 10px;
+}
+body {background-color: black;}
+h2{
+    color: darkgreen; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: red; 
+}
+p { color: brown;}
+img
+{width: 300px;
+height: 180px;
+}
